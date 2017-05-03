@@ -1,0 +1,32 @@
+.content {
+    text-align: center;
+    padding-top: 18%;
+    color: #000000;
+}
+
+#change {
+    color: #000000;
+    font-weight: 500;
+    font-size: 5em;
+}
+
+html {
+    height: 100%
+}
+
+hr {
+    width: 400px;
+    border-top:  1px solid #f8f8f8;
+    border-bottom: 1 solid rgba(0, 0, 0, 0.2)
+}
+
+.navbar {
+    background-color: whitesmoke;
+}
+
+body {
+    background: url(https://secure.static.tumblr.com/88a568ccb4b58f591103aa7f8c414dde/m16depc/U9qn24q13/tumblr_static_1387401906_02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 106% 106%;
+}
